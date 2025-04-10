@@ -17,4 +17,4 @@ Click the following link to download and install SQL Server Management Studio (S
 # Dataset
 The data for this project is sourced from the Kaggle dataset
 
-- **Dataset Link:** [Dataset](
+- **Dataset Link:** [Dataset](https://github.com/ybalaji123/Walmart_SQL_Analysis/blob/main/WalmartSalesData.csv.csv)
