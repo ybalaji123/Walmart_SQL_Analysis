@@ -71,12 +71,12 @@ CREATE TABLE walmart(
 );
 ```
 
--**Business Questions To Answer**
--**Generic Question**
+# Business Questions To Answer
+**Generic Question**
 1) How many unique cities does the data have?
 2) In which city is each branch?
    
--**Product**
+**Product**
 1) How many unique product lines does the data have?
 2) What is the most common payment method?
 3) What is the most selling product line?
@@ -90,13 +90,13 @@ CREATE TABLE walmart(
 11) What is the most common product line by gender?
 12) What is the average rating of each product line?
     
--**Sales**
+**Sales**
 1) Number of sales made in each time of the day per weekday
 2) Which of the customer types brings the most revenue?
 3) Which city has the largest tax percent/ VAT (Value Added Tax)?
 4) Which customer type pays the most in VAT?
    
--**Customer**
+**Customer**
 1) How many unique customer types does the data have?
 2) How many unique payment methods does the data have?
 3) What is the most common customer type?
@@ -109,5 +109,5 @@ CREATE TABLE walmart(
 10) Which day of the week has the best average ratings per branch?
 
 # Codes
-- **Codes** [Click on link](https://www.youtube.com/watch?v=iaUXjTL_F9U)
+For the rest of the code, check the **Codes** [Click on link](https://www.youtube.com/watch?v=iaUXjTL_F9U)
 
