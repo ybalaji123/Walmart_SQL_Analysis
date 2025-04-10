@@ -44,33 +44,6 @@ Build a database
 Exploratory Data Analysis (EDA): Exploratory data analysis is done to answer the listed questions and aims of this project.
 
 
-# Schema
-```sql
--- Create database
-create database Walmart
-
--- Create table
-CREATE TABLE walmart(
-	invoice_id VARCHAR(30) NOT NULL PRIMARY KEY,
-    branch VARCHAR(5) NOT NULL,
-    city VARCHAR(30) NOT NULL,
-    customer_type VARCHAR(30) NOT NULL,
-    gender VARCHAR(30) NOT NULL,
-    product_line VARCHAR(100) NOT NULL,
-    unit_price DECIMAL(10,2) NOT NULL,
-    quantity INT NOT NULL,
-    tax_pct FLOAT(6,4) NOT NULL,
-    total DECIMAL(12, 4) NOT NULL,
-    date DATETIME NOT NULL,
-    time TIME NOT NULL,
-    payment VARCHAR(15) NOT NULL,
-    cogs DECIMAL(10,2) NOT NULL,
-    gross_margin_pct FLOAT(11,9),
-    gross_income DECIMAL(12, 4),
-    rating FLOAT(2, 1)
-);
-```
-
 # Business Questions To Answer
 **Generic Question**
 1) How many unique cities does the data have?
@@ -109,5 +82,31 @@ CREATE TABLE walmart(
 10) Which day of the week has the best average ratings per branch?
 
 # Codes
-For the rest of the code, check the **Codes** [SQL_walmart_prokect](https://github.com/ybalaji123/Walmart_SQL_Analysis/blob/main/Walmart_project.sql))
+For the rest of the code, check the **Codes** [SQL_walmart_project](https://github.com/ybalaji123/Walmart_SQL_Analysis/blob/main/Walmart_project.sql))
 
+# Schema
+```sql
+-- Create database
+create database Walmart
+
+-- Create table
+CREATE TABLE walmart(
+	invoice_id VARCHAR(30) NOT NULL PRIMARY KEY,
+    branch VARCHAR(5) NOT NULL,
+    city VARCHAR(30) NOT NULL,
+    customer_type VARCHAR(30) NOT NULL,
+    gender VARCHAR(30) NOT NULL,
+    product_line VARCHAR(100) NOT NULL,
+    unit_price DECIMAL(10,2) NOT NULL,
+    quantity INT NOT NULL,
+    tax_pct FLOAT(6,4) NOT NULL,
+    total DECIMAL(12, 4) NOT NULL,
+    date DATETIME NOT NULL,
+    time TIME NOT NULL,
+    payment VARCHAR(15) NOT NULL,
+    cogs DECIMAL(10,2) NOT NULL,
+    gross_margin_pct FLOAT(11,9),
+    gross_income DECIMAL(12, 4),
+    rating FLOAT(2, 1)
+);
+```
