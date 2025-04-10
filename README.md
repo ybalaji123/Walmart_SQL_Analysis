@@ -2,7 +2,7 @@
 
 ![walmart data](https://github.com/ybalaji123/Walmart_SQL_Analysis/blob/main/walmart_image.jpg)
 
-# Overview
+# Overview and About
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized
 
 "In this recruiting competition, job-seekers are provided with historical sales data for 45 Walmart stores located in different regions. Each store contains many departments, and participants must project the sales for each department in each store. To add to the challenge, selected holiday markdown events are included in the dataset. These markdowns are known to affect sales, but it is challenging to predict which departments are affected and the extent of the impact
@@ -82,7 +82,7 @@ Exploratory Data Analysis (EDA): Exploratory data analysis is done to answer the
 10) Which day of the week has the best average ratings per branch?
 
 # Code
-For the rest of the code, check the **Codes** [SQL_walmart_project](https://github.com/ybalaji123/Walmart_SQL_Analysis/blob/main/Walmart_project.sql))
+For the rest of the code, check the **Code link** [SQL_walmart_project](https://github.com/ybalaji123/Walmart_SQL_Analysis/blob/main/Walmart_project.sql))
 
 # Schema
 ```sql
