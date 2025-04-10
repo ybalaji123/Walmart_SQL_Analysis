@@ -81,7 +81,7 @@ Exploratory Data Analysis (EDA): Exploratory data analysis is done to answer the
 9) Which day fo the week has the best avg ratings?
 10) Which day of the week has the best average ratings per branch?
 
-# Codes
+# Code
 For the rest of the code, check the **Codes** [SQL_walmart_project](https://github.com/ybalaji123/Walmart_SQL_Analysis/blob/main/Walmart_project.sql))
 
 # Schema
