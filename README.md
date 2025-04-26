@@ -1,6 +1,7 @@
 # Walmart Analysis Using SQL(SSMS)
 
-![walmart data](https://github.com/ybalaji123/Walmart_SQL_Analysis/blob/main/walmart_image.jpg)
+![walmart data]](https://github.com/ybalaji123/Walmart_SQL_Analysis/blob/main/walmart_logo.jpg))
+
 
 # Overview and About
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized
