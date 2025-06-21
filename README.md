@@ -20,6 +20,9 @@ The data for this project is sourced from the Kaggle dataset
 
 - **Dataset Link:** [Dataset](https://github.com/ybalaji123/Walmart_SQL_Analysis/blob/main/WalmartSalesData.csv.csv)
 
+# Complete Excel Analysis
+- **Excel file:** [File](https://github.com/ybalaji123/Walmart_SQL_Analysis/blob/main/Walmart%20Analysis.xlsx)
+  
 # Analysis List
 **Product Analysis**
 Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
