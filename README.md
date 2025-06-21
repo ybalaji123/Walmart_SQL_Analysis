@@ -114,3 +114,6 @@ CREATE TABLE walmart(
     rating FLOAT(2, 1)
 );
 ```
+
+# Excel Dashboard 
+![dashboard](https://github.com/ybalaji123/Walmart_SQL_Analysis/blob/main/Screenshot%202025-06-21%20165434.png)
