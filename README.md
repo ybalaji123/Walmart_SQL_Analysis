@@ -117,3 +117,31 @@ CREATE TABLE walmart(
 
 # Excel Dashboard 
 ![dashboard](https://github.com/ybalaji123/Walmart_SQL_Analysis/blob/main/Screenshot%202025-06-21%20165434.png)
+
+# Walmart Analysis Dashboard
+
+This interactive Excel dashboard provides an analytical overview of Walmart's business performance based on various sales metrics. It highlights key insights across product lines, cities, customer types, and time periods.
+
+## Key Insights:
+- **Common Payment Method**: E-Wallet is the most used payment method.
+- **Top-Selling Product Line**: Fashion accessories lead in sales.
+- **Highest COGS Month**: January has the highest cost of goods sold.
+- **City with Highest Revenue**: Naypyitaw outperforms other cities.
+- **Highest VAT Contribution**: Food and beverages have the largest VAT.
+- **Top Performing Branch**: Branch 'A' recorded the highest sales.
+- **Peak Sales Time**: Evening hours show the most activity.
+- **Best Customer Type**: Members contribute the highest revenue.
+- **City with Highest Tax %**: Naypyitaw with 16.05%.
+
+## Visual Elements:
+- **Bar Charts**: Monthly revenue, branch-wise sales.
+- **Line Chart**: Sales trends based on time of day.
+- **Pie/Donut Chart**: Distribution of sales by product categories.
+- **Comparison Graphs**: Gross income and margin percentages by city.
+- **Trend Area Chart**: Daily performance pattern across weekdays.
+
+## Data Filters:
+- **Date Selector**: Allows analysis by month (July–December 2019).
+- **Customer Type Filter**: View data specific to Members or Normal customers.
+
+This dashboard allows users to understand performance trends, customer preferences, and product/category insights to support data-driven decisions.
