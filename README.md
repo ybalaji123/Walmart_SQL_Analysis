@@ -1,4 +1,4 @@
-# Walmart Analysis Using SQL(SSMS)
+# Walmart Analysis Using SQL(SSMS) & Excel Dashboard
 
 ![walmart data](https://github.com/ybalaji123/Walmart_SQL_Analysis/blob/main/walmart_logo.jpg)
 
